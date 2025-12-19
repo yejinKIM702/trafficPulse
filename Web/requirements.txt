@@ -1,0 +1,23 @@
+# AWS SDK
+boto3>=1.34.0
+botocore>=1.34.0
+
+# Spark
+pyspark>=3.5.0
+
+# 데이터 처리
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 대시보드
+streamlit>=1.28.0
+plotly>=5.17.0
+folium>=0.14.0
+
+# 유틸리티
+python-dotenv>=1.0.0
+pyarrow>=14.0.0
+
+# 로깅
+loguru>=0.7.0
+
